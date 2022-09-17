@@ -1,0 +1,32 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+div{
+    height:30px;
+    width:30px;
+    background-color: black;
+}
+
+.container{
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+    width:600px;
+}
+
+.head{
+    background-color: lightblue;
+    border: 1px solid white;
+    height:28px;
+    width:28px;
+}
+
+.food{
+    background-color: red;
+}
+
+.body{
+    background-color: rgb(71, 185, 223);
+}
